@@ -1,0 +1,14 @@
+{
+  "name": "checkbox_terminal_payment_integrator_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-ws": "^5.0.2"
+  }
+}
